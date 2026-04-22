@@ -7,4 +7,4 @@ I also love teaching and helping other engineers with any problems they might ha
 I’m especially interested in designing things that are not just functional, but clean, maintainable, and able to scale over time. 
 Outside of that, I sometimes explore other technologies out of curiosity, it helps me see problems from different angles and improve how I approach building systems.
 
-I believe real engineering goes beyond writing code. It’s about building products and growing through the process of building them.
+I believe that engineers grow by building things that matter, not just by writing more code.
